@@ -14,7 +14,7 @@ This project verifies whether two text documents are written by the same author 
 The dataset is hosted on Google Drive due to size constraints.
 
 📌 Dataset Link:
-https://drive.google.com/your-link-here
+https://drive.google.com/drive/folders/1XQyOjqzDlAjUeUI-JOs-lXrQ3tudu4Y6?usp=sharing
 
 ## How to Run
 1. Open `Authorship_Verification.ipynb` in Google Colab
